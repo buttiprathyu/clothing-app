@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
+This project is deployed on Heroku - https://clothing-react-mila.herokuapp.com/
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project is about a clothing app with React, Firebase, Redux, Hooks, GraphQL, Redux-saga, integrated with payments Stripe.js
 
@@ -28,5 +30,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
